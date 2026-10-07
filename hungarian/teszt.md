@@ -10,7 +10,7 @@ Article 2: Competitors
 befolyásolhatja azt az orientációt, amelyben a játékot a szőnyegre helyezi, annak alapján, hogy mit tud vagy mit vár a játék állapotáról.
         - A2e2) A versenyző maga nem veheti le a takarót. Büntetés: érvénytelen kísérlet (DNF).
 - A3) Megtekintés:
-    - A3a) A versenyző minden kísérlet kezdetén megtekintheti a játékot.
+    - A3a) A versenyző minden kísérlet kezdetén megnézheti a játékot.
         - A3a1) A versenyzőnek a játék megtekintésére és a kirakás megkezdésére 15 másodpercnél kevesebb idő áll rendelkezésére.
     - A3b) A bíró előkészíti az időmérőt: bekapcsolja, és szükség esetén lenullázza. Ha Generation 5 Pro Timer típusú időmérőt használnak, a bírónak gondoskodnia kell arról, hogy az 2-Pad módba legyen állítva. Ettől függetlenül a bíró egy stoppert is előkészít a megtekintés időmérésére (lásd: [A4d szabály](regulations:regulation:A4d)).
         - A3b1) Amikor a versenyző a kirakóhelynél van, és a bíró készen áll, a bíró megkérdezi: „KÉSZEN ÁLLSZ?”. A versenyzőnek a kérdéstől számított egy percen belül készen kell állnia a kísérlet megkezdésére, ellenkező esetben a bíró mérlegelése alapján elveszti a kísérletet (DNS).

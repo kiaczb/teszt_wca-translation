@@ -1,6 +1,6 @@
 A3 teszt
  A3b3 some change
- A3b3++ igen
+ A3b3++ nem filip ugovsek egy legenda
 Article 2: Competitors
 2a) Bárki részt vehet wca versenyen aki:
 2a1) Comply with WCA Regulations.
